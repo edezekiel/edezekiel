@@ -5,5 +5,5 @@ I'm a Senior Engineer at [HeroDevs](https://www.herodevs.com/) specializing in A
 ## Around the web
 
 - [Twitter](https://twitter.com/EdwardAEzekiel)
-- [LinkedIn](https://www.linkedin.com/in/edezekiel/)
 - [Medium](https://edezekiel.medium.com/)
+- [LinkedIn](https://www.linkedin.com/in/edezekiel/)
