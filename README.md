@@ -1,9 +1,9 @@
-### Hi there 👋, I'm Ed Ezekiel
+## Hi there 👋, I'm Ed Ezekiel
+### &#8594; ~ 💻 Senior Angular Engineer @[heroDevs](https://www.herodevs.com/) | 👨‍👩‍👧‍👦 Husband and Dad | ⚖️ Juris Doctor
 
-I'm a Senior Engineer at [HeroDevs](https://www.herodevs.com/) specializing in Angular.
-
-## Around the web
+### Around the web
 
 - [Twitter](https://twitter.com/EdwardAEzekiel)
 - [Medium](https://edezekiel.medium.com/)
 - [LinkedIn](https://www.linkedin.com/in/edezekiel/)
+
