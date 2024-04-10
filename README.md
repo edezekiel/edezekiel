@@ -3,6 +3,7 @@
 
 ### Around the web
 
+- [edezekiel.com](https://www.edezekiel.com/)
 - [Twitter](https://twitter.com/EdwardAEzekiel)
 - [Medium](https://edezekiel.medium.com/)
 - [LinkedIn](https://www.linkedin.com/in/edezekiel/)
