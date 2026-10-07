@@ -2,7 +2,7 @@
 
 💻 Senior Engineer at [HeroDevs](https://www.herodevs.com/) · 👨‍👩‍👧‍👦 Husband and dad · ⚖️ Juris Doctor
 
-I work on software supply-chain security at HeroDevs, including leading the rollout of our [VEX endpoint](https://edezekiel.com/blog/2026-04-08-rolling-out-vex-at-herodevs/). Before that I spent years deep in Angular, TypeScript, and testing. Lately I've also been building a treehouse in the backyard. 🌳
+I work on software security at [HeroDevs](https://www.herodevs.com/about-us), including leading the rollout of our [VEX endpoint](https://edezekiel.com/blog/2026-04-08-rolling-out-vex-at-herodevs/) and patching Angular vulnerabilities. Before that I spent years building Angular applications and TypeScript libraries. Lately I've also been building a treehouse in the backyard. 🌳
 
 ### 🛠️ Projects
 
