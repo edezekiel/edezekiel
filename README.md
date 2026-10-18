@@ -6,12 +6,13 @@ I work on software security at [HeroDevs](https://www.herodevs.com/about-us), in
 
 ### 🛠️ Projects
 
+- 🌐 [edezekiel-web](https://github.com/edezekiel/edezekiel-web): my personal site, built with Astro
+- 🔵 [dotfiles](https://github.com/edezekiel/dotfiles): dotfiles configuration, kept in a bare git repository.
 - 🛡️ [openvex-js](https://github.com/edezekiel/openvex-js): TypeScript library for creating and managing OpenVEX documents
+- 🌳 [The Treehouse](https://edezekiel.com/treehouse/): a backyard build, documented as it happens
 - 🧪 [inject-mocks](https://github.com/edezekiel/ngx-unit-test): simplify Angular unit testing with automatic mock injection
 - 🔑 [get-ssh-config](https://github.com/edezekiel/get-ssh-config): CLI and Node.js library to parse and query SSH config files
 - 📅 [safe-date-parse](https://github.com/edezekiel/safe-date-parse): robust date parsing that avoids common JavaScript Date pitfalls
-- 🌐 [edezekiel-web](https://github.com/edezekiel/edezekiel-web): my personal site, built with Astro
-- 🌳 [The Treehouse](https://edezekiel.com/treehouse/): a backyard build, documented as it happens
 
 ### ✍️ Latest posts
 
